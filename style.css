@@ -11,7 +11,7 @@
   max-width:1440px;
   height: 1073px;
   background: #FFFFFF;
-  left: 20rem;
+  left: 15rem;;
 }
 
  .aurora{
@@ -1643,7 +1643,7 @@ width: 1440px;
 height: 523px;
 /* Linear gradient */
 background: linear-gradient(180deg, #1E3448 99.99%, rgba(30, 52, 72, 0) 100%);
-left: 20rem	;
+left: 15rem;	;
  }
 
  .wrap5{
@@ -1835,7 +1835,7 @@ background: #FFFFFF;
 
 .pg6 img{
   position: relative;
-  left:20rem
+  left:15rem;
 }
 
  .wrap6{
